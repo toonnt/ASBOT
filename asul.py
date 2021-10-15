@@ -13,7 +13,7 @@ print ("\n\n ---  ASUL BOT PY3 ยินดีต้อนรับ  ---\n")
 
 botStart = time.time()
 
-line = ASUL("Eww3ioLLLvipR5B9bco6.xxD+zgW3gaYtM/L6PqLWLG.55rbVTeS6v+h4v3UlOVFbVbSUpdnp/hsALnip7dBE2w=")
+line = ASUL("toon.myfriend@gmail.com","toonnt38")
 #line = ASUL("EusluwKjSfKXnfAvzFH1.KaptOybxCrifYDMnQKDtuq.cUjlo0FXzIMK949AR/qSrXOgNXlIchCUJdSgL6CUc0E=")#ร่างคิก
 #line = ASUL("Email","Password")
 line.log("Auth Token : " + str(line.authToken))
